@@ -1,0 +1,8 @@
+Root Rot#Foliage is browning and dropping.#Dark soft roots that look almost wiry.#Appears to be wilting badly.
+Underwatered#Browning foliage.#Dropping leaves.#Appears to be shriveling up.
+Powdery Mildew#Foliage is turning yellow and drying out.#White powder is appearing on the foliage.#Foliage is dropping.
+Generic Fungal#Black and brown patches on foliage appear at random.#Parts of the foliage seem to be dying at random.#Foliage appears to have a yellow halo.
+Mealybugs#Small, cotton-like insects appear to be crawling all around the plant.#The plant looks dry.#Foliage curls and turns yellow.
+Fungus Gnats#Foliage turns yellow and drops.#At first glance, fruit flies or mosquitoes are flying around the plant.#Clear larvae and adult gnats are nested in the soil.
+Spider Mites#Spider webs appear all around the branches and foliage.#Pale dots are spotted all over foliage.#Foliage yellows and drops.
+Aphids#Foliage is a little bit sticky.#Foliage curls and distorts, turning yellow.#Tiny green-yellow insects crawl on the foliage.
