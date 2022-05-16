@@ -13,7 +13,13 @@ Often, people kill their first few plants because of improper care. The goal of 
 - plant death from improper care
 
 ## Core Concepts
-- 
+Concepts demonstrated in MGOT include:
+- Object-Oriented Programming principles
+- Object Serialization
+- Web-scrapping (for the database of plants)
+- New-Load-Save system for multiple users
+- Proper choice and use of Data Structures (HashMap, ArrayList, etc)
+- Logistic Growth
 
 # Sources
 Plant information was provided by Tropicopia, and disease information was provided by PennState.
