@@ -44,4 +44,5 @@ abstract class Attribute implements Serializable {
   public abstract void increment(double amount);
   public abstract void decrement();
   public abstract void decrement(double amount);
+  
 } //end class def
