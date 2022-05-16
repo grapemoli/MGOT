@@ -12,7 +12,8 @@ Often, people kill their first few plants because of improper care. The goal of 
 - possible contraction of pest infestations when purchasing plants from the store
 - plant death from improper care
 
-## 
+## Core Concepts
+- 
 
 # Sources
 Plant information was provided by Tropicopia, and disease information was provided by PennState.
