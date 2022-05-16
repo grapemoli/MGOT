@@ -84,4 +84,5 @@ public class Happy extends Attribute implements Serializable{
     //no max on happy status
     this.status = this.status + amount;
   } //end increment
+  
 } //end class def
