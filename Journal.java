@@ -130,5 +130,4 @@ public class Journal extends Book implements Serializable {
     } //end if
   } //end nextDay
   
-  
 } //end class def
