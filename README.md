@@ -18,6 +18,7 @@ Often, people kill their first few plants because of improper care. The goal of 
 
 ## Core Concepts
 Concepts demonstrated in MGOT include:
+- Java
 - Object-Oriented Programming principles
 - Object Serialization
 - Web-scrapping (for the database of plants)
