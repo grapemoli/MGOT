@@ -883,7 +883,6 @@ public class User implements Serializable {
     this.killPlants();
   } //end nextDay
 
-
 } //end class def 
 
 
