@@ -1,6 +1,6 @@
 # MGOT
 ## Summary
-Money Grows on Trees, or MGOT, is a plant-care simulator made for the command line.
+Money Grows on Trees, or MGOT, was created by web-scrapping plant information off of Tropicopia, and creating a textfiles of the plants seperated by plant categorization. This is one of my biggest projects, and is a realistic, comprehensive  simulator. Users can buy, nuture, grow, and possibly kill plants! Other points of interest is that I created a system that calculated logarithmic plant growth, which took into account the season and overall plant condition. 
 
 This is my second major project done as a final assignment for a Computer Science course. Note that the original projected was published on my GitHub Enterprise account. I simply copied the project over to here, too.
 
@@ -27,6 +27,9 @@ Concepts demonstrated in MGOT include:
 - New-Load-Save system for multiple users
 - Proper choice and use of Data Structures (HashMap, ArrayList, etc)
 - Logistic Growth
+
+## Instructions
+A makefile is provided for the user. Using a Linux-based command shell, clone the git repository. Then, type 'make run' inside the directory. This will compile and run the program.
 
 # Sources
 Plant information was provided by Tropicopia, and disease information was provided by PennState.
