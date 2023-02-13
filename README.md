@@ -1,11 +1,12 @@
 # MGOT
+## Summary
 Money Grows on Trees, or MGOT, is a plant-care simulator made for the command line.
 
 This is my second major project done as a final assignment for a Computer Science course. Note that the original projected was published on my GitHub Enterprise account. I simply copied the project over to here, too.
 
 Note: I created a makefile for ease in running this program. Simply type "make run" in the console. If not, the main file is Main.java.
 
-## Goal
+### Goal
 Often, people kill their first few plants because of improper care. The goal of MGOT is to provide an easy and afforadble (free!) learning system for people interested in taking care of plants. MGOT was made to be as realistic as possible. Examples of incorporated realism:
 - over 150 unique plants to care for
 - unique logistic growth for each plant
@@ -16,7 +17,7 @@ Often, people kill their first few plants because of improper care. The goal of 
 - possible contraction of pest infestations when purchasing plants from the store
 - plant death from improper care
 
-## Core Concepts
+### Core Concepts
 Concepts demonstrated in MGOT include:
 - Java
 - Object-Oriented Programming principles
